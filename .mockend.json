@@ -27,5 +27,13 @@
     "isPublic": {
       "boolean": {}
     }
-  }
+  },
+"login": {
+  "username": {
+    "string": {}
+},
+  "password": {
+    "string": {}
+},
+  
 }
