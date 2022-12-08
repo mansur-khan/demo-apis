@@ -7,10 +7,7 @@
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
     },
     "statusMessage": {
-      "string": [
-        "working from home",
-        "watching Netflix"
-      ]
+      "string": ["working from home", "watching Netflix"]
     },
     "email": {
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
@@ -28,12 +25,12 @@
       "boolean": {}
     }
   },
-"login": {
-  "username": {
-    "string": {}
-},
-  "password": {
-    "string": {}
-},
-  
+  "Login": {
+    "username": {
+      "string": {}
+    },
+    "password": {
+      "string": {}
+    }
+  }
 }
