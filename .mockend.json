@@ -27,10 +27,10 @@
   },
   "Login": {
     "username": {
-      "string": ["test1", "test2", "test3", "test4", "test5", "test6"]
+      "string": ["test1"]
     },
     "password": {
-      "string": ["test1", "test2", "test3", "test4", "test5", "test6"]
+      "string": ["test1"]
     }
   }
 }
